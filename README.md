@@ -1,1 +1,1 @@
-# Artify_1
+# Artify
